@@ -1,0 +1,26 @@
+/* 
+flex-direction: row, row-reverse, column, column-reverse
+flex-wrap: nowrap, wrap, wrap-reverse
+flex-flow: -combo of flex-direction and flex-wrap
+order:
+justify-content: flex-end, flex-start, center, space-between, space-around
+align-items: flex-start, flex-end, center, baseline, stretch
+align-content: flex-end, flex-start, center, space-between, space-around, stretch -determines line alignment 
+*/
+
+
+h1{
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 6em;
+    text-align:center;
+}
+
+body{
+    background-color:rgb(253, 216, 4);
+}
+
+img{
+    width: auto;
+    height:300px;
+}
+
